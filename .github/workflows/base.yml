@@ -21,8 +21,8 @@ jobs:
         oses:
           - alpine
           - debian
+          - debian-rathena
           - ubuntu
-          - ubuntu-rathena
     steps:
       - uses: actions/checkout@v4
       - uses: docker/setup-qemu-action@v3
