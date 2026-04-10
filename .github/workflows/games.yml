@@ -25,6 +25,7 @@ jobs:
           - hytale
           - mohaa
           - rust
+          - rathena
           - samp
           - source
           - valheim
